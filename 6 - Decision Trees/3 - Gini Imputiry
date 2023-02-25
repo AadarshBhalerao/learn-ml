@@ -1,0 +1,4 @@
+Similar to entropy, Gini Imputiry is a measure to check infomation gain during a split.
+Gini = 1 - sum of probablities
+
+## Work on Understaing hyperparameters.

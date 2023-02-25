@@ -1,0 +1,4 @@
+Information Gain, is a matrix used to train a DT.
+Constructing a DT is all about finding attributes that returns the highest information gain.
+Info gain = Entropy(Parent) - Weighted Entropy(Children)
+Hence, the working of a DT is to find a feature with maximum information gain and split it unless all the values are split, and then moving to the next feature.
