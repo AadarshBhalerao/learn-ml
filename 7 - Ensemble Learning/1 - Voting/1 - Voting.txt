@@ -1,1 +1,6 @@
-
+1. Arrange n-number of models and provide the same dataset as input to all the models
+    and get the respective outputs.
+2. Each model should be dissimilar to each other
+3. Each model should have an accuracy more than 51%
+4. Output of each model is observered and the output which has repeated the majority times will be   
+    selected as output as per voting. 
