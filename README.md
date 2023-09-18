@@ -1,1 +1,4 @@
-# learn-ml
+SIMPLIFIES
+PERSPECTIVE
+Thesis
+Attention
